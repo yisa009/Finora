@@ -25,7 +25,7 @@ Upon the conception of Finora, the approach to develop a simple application to s
 3. Gamification across user specific cohorts (Based on daily transaction volume)
 4. Weekly spending snapshot
 
-These 3 features addresses major parts of the problem associated with impromptu spending on a daily basis and will help to create the necessary mentality and shape the behaviors required to sustain the financial health of the average user.
+These 4 features addresses major parts of the problem associated with impromptu spending on a daily basis and will help to create the necessary mentality and shape the behaviors required to sustain the financial health of the average user.
 
 
 # Measuring success
